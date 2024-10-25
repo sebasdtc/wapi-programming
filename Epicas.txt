@@ -1,0 +1,4 @@
+Como coordinador quiero poder filtar que datos de mi excel necesito exportar para tener mayor opciones.
+Como coordinador quiero que sea simple de visualizar para que todos podamos usar con simplicidad.
+Como coordinador quiero poder cargar cualquier excel sin la necesidad de tener una plantilla.
+Como coordinador quiero que tenga un exportacion por defecto para casos en las que no necesite mas opciones.
